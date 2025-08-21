@@ -18,7 +18,7 @@ My full stack experience spans React, Next.js, Node.js, and modern DevOps workfl
 
 
 # 
-<table align="center" width="850">
+<table align="center">
 <!-- skill -->
   <tr>
     <td align="center" width="90">
