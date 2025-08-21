@@ -18,7 +18,7 @@ My full stack experience spans React, Next.js, Node.js, and modern DevOps workfl
 
 
 # 
-<table width = "100" align="center">
+<table style = "width:1000%" align="center">
 <!-- skill -->
   <tr>
     <td align="center" width="90">
