@@ -18,10 +18,10 @@ My full stack experience spans React, Next.js, Node.js, and modern DevOps workfl
 
 
 # 
-<table style = "width:1000%" align="center">
+<table align="center">
 <!-- skill -->
   <tr>
-    <td align="center" width="90">
+    <td align="center" width="85">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
