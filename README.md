@@ -12,11 +12,6 @@ My full stack experience spans React, Next.js, Node.js, and modern DevOps workfl
 
 <br/>
 
-<p align="center">  
-    <a href="https://github.com/akyo0000212"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
-</p>
-
-
 # 
 <table align="center">
 <!-- skill -->
