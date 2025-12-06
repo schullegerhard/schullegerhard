@@ -4,7 +4,7 @@ Hi, I’m  — a passionate developer building intelligent systems and decentral
 I specialize in Blockchain, Artificial Intelligence, and Full-Stack Engineering, creating products that merge automation, security, and scalable architecture.
 
 🧠 What I Do
-🔗 Blockchain Development
+🔗 Blockchain & AI Development
 
 Smart contract engineering (Solidity, Rust)
 
@@ -73,10 +73,5 @@ Here are some projects I work on:
 
 📈 GitHub Stats
 
-🌐 Let’s Connect
 
-💼 Portfolio: coming soon
-📩 Email: youremail@example.com
 
-🐦 Twitter: @yourhandle
-💼 LinkedIn: your profile link
