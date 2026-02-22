@@ -1,12 +1,12 @@
 <div align="center">
-  <h2>💦 Web3 | Rust | Smart Contract | Trading Bot | AI engieer 💦</h2>
+  <h2>💦 Web3 | Rust | Smart Contract | Trading Bot | AI engineer 💦</h2>
 </div>
 
 <h4>I am a highly skilled software engineer with deep expertise in Web4 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
-I have a strong track record of building secure, efficient, and scalable blockchain solutions  including decentralized applications (dApps), automated trading bots, and advanced DeFi protocols.</h4>
+I have a strong track record of building secure, efficient, and scalable blockchain solutions  including decentralized applications (dApps), automated trading bots, chatbot, image/video generator, AI Agent, VR/AR, GenAI and AI automationand advanced DeFi protocols.</h4>
 
 <h4>With a solid background in 3D web development using Three.js, WebGL, and interactive UX/UI design, I create visually engaging, performance-optimized applications that bridge functionality with immersive design. 
-My full stack experience spans React, Next.js, Node.js, chatbot, image generator, AI Agent, VR/AR, GenAI and AI automation.</h4>
+My full stack experience spans React, Next.js and Node.js.</h4>
 
 <h4>I bring both technical excellence and strategic insight to blockchain projects, ensuring they are production-ready, user-centric, and future-proof.</h4>
 
